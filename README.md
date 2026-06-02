@@ -1,2 +1,23 @@
 # Predictive-Analysis-Historical-Data
-A machine learning project that performs predictive analysis using historical data to identify trends, generate insights, and support data-driven decision making.
+Project Overview
+This project uses machine learning techniques to analyze historical data and generate predictions for future outcomes.
+
+ Features
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Machine Learning Model Training
+- Prediction and Evaluation
+
+ Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Google Colab
+
+ Project File
+- Predictive_Analysis_using_historical_data.ipynb
+
+
